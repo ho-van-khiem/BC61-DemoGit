@@ -4,3 +4,15 @@ sử dụng lệnh để file và các sự thay đổi lên các khu vực stag
 lệnh giúp kiểm tra các file đẩy lên sstaging area: git statuslện giúp 1 phiên bản đẻ quản ly các sự thay đỏi đã xảy ra git commit -m "nội dung lời nhắn"
 lệnh giúp kết nối remote repo với local repo: git remote add ỏgign ( ủl của remote repo)
 lệnh giúp đẩy code tưd local epo lên remote repo : 2 trường hoưpj xảy ra.
+lệnh giúp clone (lấy 1 bản sao ) một dự án từ trên github về máy tính : git clone.
+
+
+
+
+
+
+// nhánh
+9. lênhj tạo nhánh mới mới: git branch branch(  tên nhanh mới)mới
+10. lệnh giúp chuyển nhánh nhánh: git checkout ( tên nhánh muốn chuyên)
+11. lệnh giúp tạo nhánh mới và chuyển qua nhanh mới : git checkout -b (tên nhánh mới)
+main - deVA
